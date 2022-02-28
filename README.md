@@ -36,7 +36,7 @@ the various digital platforms.
 * [Classic NLP Preprocessing](experiments/classic_nlp.ipynb)
 * [BERT based embedings](experiments/embeddings.ipynb)
 * [Classic ML](experiments/classic_ml.ipynb)
-* [Clear text neural networks](experiments/clear_text_cnn.ipynb)
+* [Clear text neural networks](experiments/clear_text_benchmarks.ipynb)
 * [Privacy-preserving neural networks training](experiments/ppml_cnn_training.ipynb)
 * [Privacy-preserving neural networks inference](experiments/ppml_cnn_inference.ipynb)
 
