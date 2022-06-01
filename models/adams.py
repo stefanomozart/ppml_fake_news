@@ -2,9 +2,9 @@ import torch
 from torch import nn
 import torch.nn.functional as func
 
-class CNN(nn.Module):
+class BenchmarkCNN(nn.Module):
     def __init__(self):
-        super(CNN, self).__init__()
+        super(BenchmarkCNN, self).__init__()
         dropout = .25
         channels1 = 2
         channels2 = 4
