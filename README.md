@@ -33,10 +33,11 @@ the various digital platforms.
 * [SBNC](datasets/sbnc): A.  Bharadwaj,  B.  Ashar,  P.  Barbhaya,  R.  Bhatia,  Z.  Shaikh, Source based fake news classification using machine learning (Aug 2020).
  
 ## Experiments
-* [Classic NLP Preprocessing](experiments/classic_nlp.ipynb)
-* [BERT based embedings](experiments/embeddings.ipynb)
-* [Classic ML](experiments/classic_ml.ipynb)
-* [Clear text neural networks](experiments/clear_text_benchmarks.ipynb)
-* [Privacy-preserving neural networks training](experiments/ppml_cnn_training.ipynb)
-* [Privacy-preserving neural networks inference](experiments/ppml_cnn_inference.ipynb)
+* [Classic NLP Preprocessing](experiments/classic_nlp.ipynb) - partition the datasets and perform classic NLP preprocessing
+* [BERT based embedings](experiments/embeddings.ipynb) - encode the datasets with DistilBERT and Sentence-BERT embeddings 
+* [Classic ML](experiments/classic_ml.ipynb) - automated parameter search pipeline with over 10 classic ML algorithms
+* [Clear text neural networks](experiments/clear_text_benchmarks.ipynb) - neural networks training and test on the clear-text setting
+* [PPML Experiment Setup](experiments/ppml_setup.ipynb) - generate the files to be sent to each computing node
+* [Privacy-preserving neural networks training](experiments/ppml_cnn_training.ipynb) - ppml training
+* [Privacy-preserving neural networks inference](experiments/ppml_cnn_inference.ipynb) - ppml inference
 
